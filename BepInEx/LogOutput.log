@@ -1,0 +1,927 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (11/30/2023 9:14:50 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 26 plugins to load
+[Warning:   BepInEx] Plugin [FOV Adjust 1.1.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [ItemQuickSwitchMod 1.1.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [More Suits 1.3.2] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [Ship Clock 0.9.0]
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.4.4]
+[Info   :Lethal Company Input Utils] Plugin com.rune580.LethalCompanyInputUtils is loaded!
+[Info   :   BepInEx] Loading [MoreCompany 1.9.0]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Loading SETTINGS...
+[Info   :MoreCompany] Checking: D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loading COSMETICS...
+[Info   :MoreCompany] Loading DEFAULT COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Error  :   BepInEx] Could not load [Custom Emotes API 1.3.3] because it has missing dependencies: ainavt.lc.lethalconfig
+[Info   :   BepInEx] Loading [LbToKg 1.0.0]
+[Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
+[Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
+[Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
+[Info   :   BepInEx] Loading [FixRPCLag 1.0.0]
+[Info   : FixRPCLag] Plugin dev.bobbie.fixrpclag is loaded!
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
+[Info   :   BepInEx] Loading [Fair AI 1.0.0]
+[Info   :GoldenKitten.FairAI] Fair AI initiated!
+[Info   :   BepInEx] Loading [LCBetterSaves 1.7.2]
+[Info   :LCBetterSaves] Plugin LCBetterSaves is loaded!
+[Info   :   BepInEx] Loading [LethalCompanyDRP 1.3.0]
+[Info   :LethalCompanyDRP] Started LethalCompanyDRP
+[Info   :   BepInEx] Loading [LethalPaintings 1.0.0]
+[Info   :LethalPaintings] Plugin LethalPaintings is loaded!
+[Info   :   BepInEx] Loading [LethalPosters 1.0.0]
+[Info   :LethalPosters] Plugin LethalPosters (1.0.0) is loaded!
+[Info   :   BepInEx] Loading [LRCCosmetics 1.0.0]
+[Info   :LRCCosmetics] Plugin LRCCosmetics is loaded!
+[Info   :   BepInEx] Loading [FixCentipedeLag 2023.12.2]
+[Warning:FixCentipedeLag] Registered the patch method.
+[Warning:FixCentipedeLag] Deactivating UnityLog
+[Info   :   BepInEx] Loading [Better Item Scan 2.1.0.0]
+[Info   :PopleZoo.BetterItemScan] Plugin BetterItemScan is loaded!
+[Info   :   BepInEx] Loading [PushCompany 1.2.0]
+[Info   :PushCompany] PushCompany has initialized!
+[Info   :   BepInEx] Loading [FOV Adjust 1.1.1]
+[Info   :Rozebud.FovAdjust] Starting.
+[Info   :Rozebud.FovAdjust] Configs DONE!
+[Info   :Rozebud.FovAdjust] All FOV Adjust patches have loaded successfully.
+[Info   :   BepInEx] Loading [Skinwalker Mod 5.0.0]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 5.0.0
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [CompatibilityChecker 1.0.5]
+[Info   :CompatibilityChecker] Plugin Ryokune.CompatibilityChecker is loaded!
+[Info   :CompatibilityChecker] Modded servers with CompatibilityChecker will now notify you what mods are needed.
+[Info   :   BepInEx] Loading [Scaling Start Credits 1.0.1]
+[Info   :sunnobunno.scalingstartcredits] sunnobunno.scalingstartcredits is loading.
+[Info   :sunnobunno.scalingstartcredits] sunnobunno.scalingstartcredits is loaded.
+[Info   :   BepInEx] Loading [Remote Remaster 1.0.1.0]
+[Info   :SZAKI.RemoteRemaster] Successfully awaken!
+[Info   :   BepInEx] Loading [WeatherMultipliers 0.2.0]
+[Info   :WeatherMultipliers] Plugin WeatherMultipliers is loaded!
+[Info   :   BepInEx] Loading [Mimics 2.5.0]
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.3.2]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] dxgi: swapchain SetFullscreenState failed (887a0022).
+[Info   :CompatibilityChecker] thunderStoreList initialized!
+[Info   :LRCCosmetics] Loading assets for LRCCosmetics
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.braixenhead
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.dittohead
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.gardevoirhead
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.legosharkbluehead
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.meowscaradahead
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.vaporeonhead
+[Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.zoruahead
+[Info   :LethalCompanyDRP] Discord RPC Started
+[Warning: Unity Log] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
+[Info   :MoreCompany] LANMenu startLAN Patched
+[Warning:CompatibilityChecker] Current CompatibilityChecker v1.0.5 does not equal latest release v1.1.6!
+Please update to the latest version of CompatibilityChecker!!!
+[Info   :CompatibilityChecker] Set lobby mods to: PushCompany/@/CompatibilityChecker
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :MoreCompany] ResizePlayerCache: 32
+[Info   :MoreCompany] Resizing player cache from 4 to 32 with difference of 28
+[Info   :LethalPosters] Patching Start in StartOfRound
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\posters\29.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\tips\4.png
+[Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   :MoreCompany] LANMenu startLAN Patched
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :CompatibilityChecker] Set lobby mods to: PushCompany/@/CompatibilityChecker
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :MoreCompany] ResizePlayerCache: 32
+[Info   :MoreCompany] Resizing player cache from 4 to 32 with difference of 28
+[Info   :LethalPosters] Patching Start in StartOfRound
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\posters\29.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\tips\4.png
+[Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] PatcherGunItem(Clone) - $0
+[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] PatcherGunItem(Clone) - $0
+[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] PatcherGunItem(Clone) - $0
+[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
+[Info   :sunnobunno.scalingstartcredits] Days: 0
+[Info   :sunnobunno.scalingstartcredits] Player Count: 1
+[Info   :sunnobunno.scalingstartcredits] Player threshold not met. Aborting
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/SteelDoorFake/DoorMesh/Cube"
+[Info   :WeatherMultiplier] Begin multiplier update. Old global scrap value multiplier: 0.4
+[Info   :WeatherMultiplier] Setting scrap value multiplier (1.7) for current weather "Eclipsed"
+[Info   :WeatherMultiplier] Finish multiplier update. New global scrap value multiplier: 0.68
+[Info   :LethalPosters] Patching GenerateNewLevelClientRpc in RoundManager
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\posters\28.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\tips\11.png
+[Info   :LethalPosters] Patching GenerateNewLevelClientRpc in RoundManager
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\posters\28.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with D:\Steaming pile of shit games\steamapps\common\Lethal Company\BepInEx\plugins\LethalPosters\tips\11.png
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (159)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (27)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (99)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (158)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (160)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (34)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (36)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (35)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe6/Collider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe6/Collider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe7/Collider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe7/Collider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe6/Collider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe7/Collider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe6/Collider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe6/Collider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe7/Collider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe7/Collider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe6/Collider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/HallwayCorner(Clone)/Pipes/SWCorner/Pipe7/Collider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (7)"
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] PatcherGunItem(Clone) - $0
+[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line no (too far away) 161.0783
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line 0
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line 0
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line 0
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line 0
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line 0
+[Warning: Unity Log] Setting linear velocity of a kinematic body is not supported.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] RadMechEnemy(Clone) played voice line 0
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RadMechEnemy(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled SandWorm(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Steaming pile of shit games/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   :MoreCompany] LANMenu startLAN Patched
