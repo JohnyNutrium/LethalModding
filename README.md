@@ -1,3 +1,9 @@
+NOTICE:
+
+I do not own any of these mods, this collection of mods/modding tools are for personal use of a selected group of people I play Lethal Company with, it is for the sake of a simpler modding process.
+Upon request from the mod creators, the repository can be taken down.
+
+
 HOW TO GUIDE FOR DUMMIES:
 
 1. Kimásolsz mindent a Letál mappából valahová (ÜRES LEGYEN A KURVA MAPPA)
