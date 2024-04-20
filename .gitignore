@@ -2,7 +2,7 @@
 /MonoBleedingEdge/
 /Dissonance_Diagnostics/
 /*.exe
-/*.log
+*.log
 /nvngx_dlss.dll
 /NVUnityPlugin.dll
 /UnityPlayer.dll
